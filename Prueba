@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Biocombustibles</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>Biocombustibles</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Productos</a></li>
+          <li><a href="#">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <h2>¿Qué son los biocombustibles?</h2>
+        <p>Los biocombustibles son combustibles líquidos o gaseosos producidos a partir de biomasa, es decir, materia orgánica de origen vegetal o animal.</p>
+      </section>
+      <section>
+        <h2>Tipos de biocombustibles</h2>
+        <ul>
+          <li><h3>Biodiesel</h3><img src="biodiesel.jpg" alt="Biodiesel"><p>El biodiesel se produce a partir de aceites vegetales o grasas animales y se utiliza como combustible en motores diésel.</p></li>
+          <li><h3>Etanol</h3><img src="etanol.jpg" alt="Etanol"><p>El etanol se produce a partir de cultivos como la caña de azúcar o el maíz y se utiliza como aditivo para la gasolina.</p></li>
+          <li><h3>Metano</h3><img src="metano.jpg" alt="Metano"><p>El metano se produce a partir de residuos orgánicos como restos de comida, excrementos animales y vegetales, y se utiliza como combustible para motores de gas.</p></li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 Biocombustibles S.A.</p>
+    </footer>
+  </body>
+</html>
